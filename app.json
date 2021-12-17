@@ -18,7 +18,7 @@
     },
     "OWNER_ID": {
       "description": "An integer of consisting of your owner ID.",
-      "value": "873134115"
+      "value": "1311275229"
     },
     "FROM_CHATS": {
       "description": "List of chat id's to forward messages from.",
