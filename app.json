@@ -14,7 +14,7 @@
     },
     "API_KEY": {
       "description": "Your bot API KEY, get this value from @BotFather.",
-      "value": ""
+      "value": "5005415645:AAEZAjqprimfRIlNVNAg2h3cMEjxB3Z9Gfw"
     },
     "OWNER_ID": {
       "description": "An integer of consisting of your owner ID.",
